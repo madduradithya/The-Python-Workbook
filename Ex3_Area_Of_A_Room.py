@@ -9,4 +9,4 @@ length_as_float = float(length)
 width = input("Enter the width of the room (in meters): ")
 width_as_float = float(width)
 area = length_as_float * width_as_float
-print("Computed area of the room (in meters): " + str(area))
+print("Computed area of the room (in meters): ", area)
